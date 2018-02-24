@@ -25,7 +25,7 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>isWorking = false;
+            <string>isWorking = true;
 </string>
           </argument>
         </arguments>
